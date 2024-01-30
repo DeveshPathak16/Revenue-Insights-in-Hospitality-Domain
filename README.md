@@ -1,1 +1,2 @@
 # Revenue-Insights-in-Hospitality-Domain
+https://app.powerbi.com/view?r=eyJrIjoiNGMxYmZjMDQtMjVhNC00MWNlLThjNzUtZjZmN2M3NmZhZTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
